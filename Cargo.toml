@@ -1,13 +1,13 @@
 [package]
-name = "solana-onchain-arbitrage-bot"
+name = "solana-arb-bot"
 version = "0.1.0"
 edition = "2021"
-description = "A simple Solana onchain arbitrage bot"
-repository = "https://github.com/cetipo/solana-onchain-arbitrage-bot"
+description = "A simple Solana arbitrage bot"
+repository = "https://github.com/lerry/solana-arb-bot"
 license = "MIT"
 
 [lib]
-name = "solana_onchain_arbitrage_bot"
+name = "solana_arb_bot"
 path = "src/lib.rs"
 
 [dependencies]
